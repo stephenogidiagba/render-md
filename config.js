@@ -21,7 +21,7 @@ global.github=process.env.GITHUB|| "https://wa.me/message/K6OVW2JLF6DTI1";
 global.gurl  =process.env.GURL  || "https://wa.me/message/K6OVW2JLF6DTI1";
 global.website=process.env.GURL || "https://wa.me/message/K6OVW2JLF6DTI1" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/ebaf2cddaa62349653878.jpg" ; // SET LOGO FOR IMAGE 
-global.caption = process.env.CAPTION || global.caption || "`𝖋𝖎𝖑𝖊 𝖌𝖊𝖓𝖊𝖗𝖆𝖙𝖊𝖉 𝖇𝖞 Toji[Kimihiro🖤]`" 
+global.caption = process.env.CAPTION || global.caption || "`𝖋𝖎𝖑𝖊 𝖌𝖊𝖓𝖊𝖗𝖆𝖙𝖊𝖉 𝖇𝖞 Belmont`" 
 
 
 global.devs = "919064560840" // Developer Contact
